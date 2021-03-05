@@ -2,4 +2,4 @@
 My frist repository
 
 Hey,
-I'm Yeow, here's my frist repository :)
+I'm Yao, here's my frist repository :)
